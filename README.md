@@ -91,7 +91,7 @@ brew cask install visual-studio-code
 
 ## vscode
 
-安装 Settings Sync 插件，[同步自己的  VSCode 插件]()。
+安装 Settings Sync 插件，[同步自己的  VSCode 插件](https://gist.github.com/AlvinMi/289dd0d76ca746fc9dedb9f530569ffd)。
 
 ## JDK
 
@@ -105,6 +105,9 @@ brew cask install java8
 ```bash
 git config --global user.email "alvin.mi0620@gmail.com"
 git config --global user.name "AlvinMi"
+ssh-keygen -o 
+cat ~/.ssh/id_rsa.pub
+# 复制到 GitHub 设置 -> SSH
 ```
 
 Get Token: [Personal access tokens](https://github.com/settings/tokens).
