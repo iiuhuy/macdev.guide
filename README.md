@@ -114,6 +114,7 @@ Get Token: [Personal access tokens](https://github.com/settings/tokens).
 
 ## 其他软件推荐
 
+- Mac 用户可以使用 Multipass 搞一套 Ubuntu 系统，除了图形界面，基本上都能用。这个几年使用 Ubuntu 下来，体验还是不错的。 
 - 社交软件：[WeChat](https://weixin.qq.com/)、QQ、钉钉(工作)、[Telegram](https://macos.telegram.org/)、
 - [Cyberduck](https://cyberduck.io/)
 - [JetBrains](https://www.jetbrains.com/toolbox/app/?fromMenu)
