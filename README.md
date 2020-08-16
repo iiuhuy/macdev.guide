@@ -118,6 +118,8 @@ Get Token: [Personal access tokens](https://github.com/settings/tokens).
 - 社交软件：[WeChat](https://weixin.qq.com/)、QQ、钉钉(工作)、[Telegram](https://macos.telegram.org/)、
 - [Cyberduck](https://cyberduck.io/)
 - [JetBrains](https://www.jetbrains.com/toolbox/app/?fromMenu)
+- 截图工具：Xnip
+- PDF 工具：PDF Expert
 
 ## Python 
 
