@@ -48,7 +48,7 @@ brew install potrace
 brew cask install xquartz inkscape gimp blender
 ```
 
->Terminal 用 iTerm2 + zsh + oh-my-zsh 的组合，配置 oh-my-zsh，只需要[执行一行命令](https://ohmyz.sh/)。
+> Terminal 用 iTerm2 + zsh + oh-my-zsh 的组合，配置 oh-my-zsh，只需要[执行一行命令](https://ohmyz.sh/)。
 
 3.[Install Brew-Casks](https://github.com/Homebrew/homebrew-cask/blob/master/USAGE.md)
 
@@ -91,7 +91,7 @@ brew cask install visual-studio-code
 
 ## vscode
 
-安装 Settings Sync 插件，[同步自己的  VSCode 插件](https://gist.github.com/AlvinMi/289dd0d76ca746fc9dedb9f530569ffd)。
+安装 Settings Sync 插件，[同步自己的 VSCode 插件](https://gist.github.com/iiuhuy/289dd0d76ca746fc9dedb9f530569ffd)。
 
 ## JDK
 
@@ -104,8 +104,8 @@ brew cask install java8
 
 ```bash
 git config --global user.email "alvin.mi0620@gmail.com"
-git config --global user.name "AlvinMi"
-ssh-keygen -o 
+git config --global user.name "iiuhuy"
+ssh-keygen -o
 cat ~/.ssh/id_rsa.pub
 # 复制到 GitHub 设置 -> SSH
 ```
@@ -114,14 +114,14 @@ Get Token: [Personal access tokens](https://github.com/settings/tokens).
 
 ## 其他软件推荐
 
-- Mac 用户可以使用 Multipass 搞一套 Ubuntu 系统，除了图形界面，基本上都能用。这个几年使用 Ubuntu 下来，体验还是不错的。 
+- Mac 用户可以使用 Multipass 搞一套 Ubuntu 系统，除了图形界面，基本上都能用。这个几年使用 Ubuntu 下来，体验还是不错的。
 - 社交软件：[WeChat](https://weixin.qq.com/)、QQ、钉钉(工作)、[Telegram](https://macos.telegram.org/)、
 - [Cyberduck](https://cyberduck.io/)
 - [JetBrains](https://www.jetbrains.com/toolbox/app/?fromMenu)
 - 截图工具：Xnip
 - PDF 工具：PDF Expert
 
-## Python 
+## Python
 
 > 这里有配置：https://www.yangzhiping.com/tech/mac-dev.html
 
@@ -134,4 +134,4 @@ Get Token: [Personal access tokens](https://github.com/settings/tokens).
 - 装了啥：https://github.com/sorrycc/blog/issues/16
 
 欢迎加入 [Telegram Channel](https://t.me/joinchat/AAAAAFN6x9m8LhwqkkHG4w) 记录个人学习的笔记。(需要科学上网)
-<a href="https://t.me/joinchat/AAAAAFN6x9m8LhwqkkHG4w"><img src="https://raw.githubusercontent.com/AlvinMi/2019-Pic/master/20190223094415.png" width="190px" height="190px"/></a>
+<a href="https://t.me/joinchat/AAAAAFN6x9m8LhwqkkHG4w"><img src="https://raw.githubusercontent.com/iiuhuy/2019-Pic/master/20190223094415.png" width="60px" height="60px"/></a>
