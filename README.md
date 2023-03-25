@@ -8,6 +8,7 @@
 
 - https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 - [Shadowsocks for OSX](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-%E5%B8%AE%E5%8A%A9), [下载 dmg 解压](https://github.com/shadowsocks/shadowsocks-iOS/releases)，拖到应用程序，设置自己的服务器节点即可。
+- ClashX
 
 ## 通用开发
 
@@ -18,7 +19,7 @@
 brew 是 Mac 下的包管理，brew 主要用来下载一些不带界面的命令行下的工具和第三方库来进行二次开发。
 
 ```bash
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 安装通用软件:
@@ -119,7 +120,9 @@ Get Token: [Personal access tokens](https://github.com/settings/tokens).
 - [Cyberduck](https://cyberduck.io/)
 - [JetBrains](https://www.jetbrains.com/toolbox/app/?fromMenu)
 - 截图工具：Xnip
+- 截图工具：Snipaste。（Windows & MacOS）
 - PDF 工具：PDF Expert
+- ChatGPT 客户端：[lencx-ChatGPT](https://github.com/lencx/ChatGPT)
 
 ## Python
 
@@ -132,6 +135,3 @@ Get Token: [Personal access tokens](https://github.com/settings/tokens).
 - Mac 入门笔记：https://www.yangzhiping.com/tech/mac1.html
 - Mac 开发者 2013 年新机设置参考：https://www.yangzhiping.com/tech/mac-dev.html
 - 装了啥：https://github.com/sorrycc/blog/issues/16
-
-欢迎加入 [Telegram Channel](https://t.me/joinchat/AAAAAFN6x9m8LhwqkkHG4w) 记录个人学习的笔记。(需要科学上网)
-<a href="https://t.me/joinchat/AAAAAFN6x9m8LhwqkkHG4w"><img src="https://raw.githubusercontent.com/iiuhuy/2019-Pic/master/20190223094415.png" width="60px" height="60px"/></a>
