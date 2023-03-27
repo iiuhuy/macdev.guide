@@ -28,9 +28,9 @@ brew 是 Mac 下的包管理，brew 主要用来下载一些不带界面的命�
 brew install wget
 brew install curl
 brew install openssl
-brew install imagemagick gs #未来Rails图片处理需要
-# brew install gfortran #未来R语言等编译需要
-brew install node #未来安装Ruby web服务器pow需要
+brew install imagemagick gs # 未来 Rails 图片处理需要
+# brew install gfortran # 未来 R 语言等编译需要
+brew install node # 未来安装 Ruby web 服务器 pow 需要
 brew install zsh
 brew install python3
 # some tools
@@ -68,12 +68,16 @@ brew cask install iterm2 sourcetree alfred
 # Daily
 brew cask install neteasemusic sketch thunder firefox baiducloud
 brew cask install virtualbox shadowsocksx charles
-brew cask install vlc                #视频软件
+# 视频软件
+brew cask install vlc 
 # 虚拟机
 brew cask install virtualbox
 brew cask install vagrant
 # vscode
 brew cask install visual-studio-code
+# ChatGPT 客户端 by lencx
+brew tap lencx/chatgpt https://github.com/lencx/ChatGPT.git
+brew install --cask chatgpt --no-quarantine
 ```
 
 ## 一键装机
@@ -123,6 +127,7 @@ Get Token: [Personal access tokens](https://github.com/settings/tokens).
 - 截图工具：Snipaste。（Windows & MacOS）
 - PDF 工具：PDF Expert
 - ChatGPT 客户端：[lencx-ChatGPT](https://github.com/lencx/ChatGPT)
+	- 也可以 HomeBrew 安装：https://app.nofwl.com/chatgpt/install#mac
 
 ## Python
 
